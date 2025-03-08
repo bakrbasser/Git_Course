@@ -5,4 +5,7 @@ int main(){
   string name;
   cin >> name;
   cout << name << endl;
+  string address;
+  cin >> address;
+  cout << address;
 }
